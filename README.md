@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Bluecat1916
+- 👀 I’m interested in front end web development
+- 🌱 I’m currently learning html, css, and Javascript
+- 📫 Reach me at bluecat1916art@gmail.com
